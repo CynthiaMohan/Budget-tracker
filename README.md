@@ -1,2 +1,1 @@
-# Budget-tracker
-Progressive Web Application Challenge
+# Budget Tracker Starter Code
