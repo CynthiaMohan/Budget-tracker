@@ -14,6 +14,7 @@ const FILES_TO_CACHE = [
     "./icons/icon-384x384.png",
     "./icons/icon-512x512.png",
     "./js/index.js",
+    "../../models/transaction.js",
 
 ];
 //Intercept fetch requests
